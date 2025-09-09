@@ -1,0 +1,8 @@
+dictdiffer
+progress
+pefile
+scikit-learn
+pandas
+numpy
+matplotlib
+requests
